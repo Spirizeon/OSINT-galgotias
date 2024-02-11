@@ -1,3 +1,4 @@
+```
 Technologies used
 ==================================================
 + Wordpress
@@ -1046,4 +1047,4 @@ PORT      STATE SERVICE
 65129/tcp open  unknown
 65389/tcp open  unknown
 
-Nmap done: 1 IP address (1 host up) scanned in 59.14 seconds
+```
